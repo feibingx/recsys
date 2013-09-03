@@ -1,0 +1,16 @@
+.project
+.classpath
+target
+.settings
+log
+out
+debug
+.idea
+*.iml
+*.rar
+*/target
+*/.project
+*/.classpath
+*/.settings.gitignore
+.copyarea.db
+**.copyarea.db
